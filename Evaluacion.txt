@@ -1,2 +1,4 @@
 Pablo Jhoel
 Puetate Mier
+Lenguajes: Java, python
+Lenguajes BD: Access, SQL, MySQL
